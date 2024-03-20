@@ -3,7 +3,7 @@ AI powered system with multiple tools like - Emotion Detection, Live Camera Emot
 
 Guide for running Backend:
 
-Download the Backend.zip file and extract
+Download the Backend file
 Open VS Code and change current directory to file path of Backend folder
 Run the main.py file
 Check out all our tools!
@@ -14,7 +14,7 @@ OR
 
 Guide for running Frontend website (locally):
 
-Download the Frontend.zip file and extract
+Download the Frontend file 
 Open VS Code and download extension 'Live Server'
 Restart VS Code and open the Frontend folder containing sub files on VS Code
 Open 'Index.html' and in bottom-right corner of VS Code click 'Go Live' button
