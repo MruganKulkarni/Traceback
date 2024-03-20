@@ -1,4 +1,4 @@
-# Project_FaceFeel
+# Project_Traceback
 AI powered system with multiple tools like - Emotion Detection, Live Camera Emotion Detection, Cancer Detection, House Pricing Prediction
 
 Guide for running Backend:
@@ -19,3 +19,4 @@ Open VS Code and download extension 'Live Server'
 Restart VS Code and open the Frontend folder containing sub files on VS Code
 Open 'Index.html' and in bottom-right corner of VS Code click 'Go Live' button
 Explore the website and check out all the features!
+
